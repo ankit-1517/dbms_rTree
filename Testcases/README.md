@@ -10,7 +10,7 @@ There are 7 different test cases present, going from as small as 100 queries to 
 - Bulkload
 	+ Always the first (and only first) line of query file.
 	+ Starts with `BULKLOAD`.
-	+ The second string is the path of data file you need to bulk load from, and you'll need to change that according to your system.  
+	+ The second string is the path of data file you need to bulk load from, and you *may* need to change that according to your directory structure.  
 
 - INSERT/QUERY
 	+ Process all queries (insert/search) one after the other.
