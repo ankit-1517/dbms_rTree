@@ -1,414 +1,621 @@
 BULKLOAD
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 INSERT
 
+
 INSERT
+
 
 TRUE
+
 
 FALSE
 
+
 TRUE
+
 
 INSERT
 
+
 FALSE
 
-TRUE
 
 TRUE
+
+
+TRUE
+
 
 INSERT
 
-TRUE
 
 TRUE
 
+
 TRUE
+
+
+TRUE
+
 
 INSERT
 
-FALSE
-
-TRUE
 
 FALSE
 
-TRUE
 
 TRUE
 
-TRUE
-
-TRUE
-
-TRUE
-
-TRUE
 
 FALSE
 
-FALSE
 
 TRUE
 
-TRUE
 
 TRUE
 
-FALSE
 
 TRUE
 
-TRUE
 
 TRUE
 
-TRUE
 
 TRUE
 
-FALSE
+
+TRUE
+
 
 FALSE
 
-TRUE
 
 FALSE
 
-FALSE
 
 TRUE
 
-FALSE
-
-FALSE
-
-FALSE
 
 TRUE
 
-TRUE
 
 TRUE
 
-TRUE
-
-TRUE
-
-TRUE
-
-TRUE
-
-TRUE
-
-TRUE
-
-TRUE
 
 FALSE
 
-TRUE
 
 TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
 
 FALSE
 
-TRUE
+
+FALSE
+
 
 TRUE
 
+
+FALSE
+
+
+FALSE
+
+
 TRUE
+
+
+FALSE
+
+
+FALSE
+
+
+FALSE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+FALSE
+
+
+TRUE
+
+
+TRUE
+
+
+FALSE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
 
 INSERT
 
+
 FALSE
+
 
 TRUE
 
-TRUE
-
-FALSE
 
 TRUE
 
-FALSE
 
 FALSE
+
 
 TRUE
 
+
 FALSE
+
+
+FALSE
+
 
 TRUE
 
-FALSE
 
 FALSE
 
-FALSE
 
 TRUE
 
-TRUE
-
-TRUE
-
-TRUE
 
 FALSE
 
-FALSE
 
 FALSE
+
+
+FALSE
+
 
 TRUE
 
-TRUE
 
 TRUE
 
-FALSE
-
-FALSE
 
 TRUE
 
-TRUE
 
 TRUE
 
+
 FALSE
+
+
+FALSE
+
+
+FALSE
+
 
 TRUE
 
-FALSE
 
 TRUE
 
-FALSE
+
+TRUE
+
 
 FALSE
 
-FALSE
 
 FALSE
+
+
+TRUE
+
+
+TRUE
+
+
+TRUE
+
+
+FALSE
+
+
+TRUE
+
+
+FALSE
+
+
+TRUE
+
+
+FALSE
+
+
+FALSE
+
+
+FALSE
+
+
+FALSE
+
 
 INSERT
 
+
 FALSE
+
 
 TRUE
 
+
 TRUE
 
-FALSE
 
 FALSE
+
+
+FALSE
+
 
 INSERT
 
+
 FALSE
+
 
 TRUE
 
-FALSE
 
 FALSE
+
+
+FALSE
+
 
